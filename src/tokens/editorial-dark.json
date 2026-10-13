@@ -1,0 +1,43 @@
+{
+  "id": "editorial-dark",
+  "name": "ادیتوریال تیره",
+  "description": "ذغالی تیره با برش‌های مورب تند و تایپوگرافی بسیار ضخیم؛ حس مجله مد.",
+  "canvas": { "width": 1080, "heightPortrait": 1350, "heightSquare": 1080, "safe": 84 },
+  "colors": {
+    "bg": "#17191C",
+    "bgAlt": "#202327",
+    "surface": "#2A2E33",
+    "ink": "#EFEAE0",
+    "inkMuted": "#A8A397",
+    "accent": "#52C7B0",
+    "accentInk": "#0E1B18",
+    "line": "rgba(239,234,224,0.18)",
+    "panel": "#101214",
+    "panelInk": "#EFEAE0",
+    "onImage": "#FFFFFF",
+    "scrim": "rgba(8,9,10,0.62)"
+  },
+  "type": {
+    "fontFamily": "'Vazirmatn', 'Tahoma', sans-serif",
+    "scale": {
+      "display": { "size": 150, "weight": 900, "lineHeight": 1.12 },
+      "headline": { "size": 104, "weight": 900, "lineHeight": 1.18 },
+      "title": { "size": 68, "weight": 800, "lineHeight": 1.3 },
+      "subtitle": { "size": 42, "weight": 600, "lineHeight": 1.5 },
+      "body": { "size": 36, "weight": 500, "lineHeight": 1.75 },
+      "caption": { "size": 29, "weight": 500, "lineHeight": 1.6 },
+      "label": { "size": 26, "weight": 800, "lineHeight": 1.4 },
+      "price": { "size": 112, "weight": 900, "lineHeight": 1.1 }
+    }
+  },
+  "radius": { "sm": 6, "md": 14, "lg": 28, "pill": 999 },
+  "spacing": { "xs": 12, "sm": 20, "md": 32, "lg": 52, "xl": 84 },
+  "motif": {
+    "panelStyle": "diagonal",
+    "diagonalAngle": 8,
+    "dotStyle": "pill",
+    "pattern": "stripes",
+    "patternOpacity": 0.05,
+    "strokeWidth": 3
+  }
+}

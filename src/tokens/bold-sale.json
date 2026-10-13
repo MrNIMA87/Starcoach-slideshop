@@ -1,0 +1,43 @@
+{
+  "id": "bold-sale",
+  "name": "جشنواره پرکنتراست",
+  "description": "زرد خالص، مشکی و قرمز؛ برای تخفیف و جشنواره. نیم‌تون نقطه‌ای و برش مورب بسیار تند.",
+  "canvas": { "width": 1080, "heightPortrait": 1350, "heightSquare": 1080, "safe": 80 },
+  "colors": {
+    "bg": "#FFD400",
+    "bgAlt": "#FFE55C",
+    "surface": "#FFFFFF",
+    "ink": "#0A0A0A",
+    "inkMuted": "#3B3B3B",
+    "accent": "#E10600",
+    "accentInk": "#FFFFFF",
+    "line": "rgba(10,10,10,0.35)",
+    "panel": "#0A0A0A",
+    "panelInk": "#FFD400",
+    "onImage": "#FFFFFF",
+    "scrim": "rgba(10,10,10,0.6)"
+  },
+  "type": {
+    "fontFamily": "'Vazirmatn', 'Tahoma', sans-serif",
+    "scale": {
+      "display": { "size": 168, "weight": 900, "lineHeight": 1.05 },
+      "headline": { "size": 112, "weight": 900, "lineHeight": 1.12 },
+      "title": { "size": 72, "weight": 900, "lineHeight": 1.25 },
+      "subtitle": { "size": 44, "weight": 700, "lineHeight": 1.45 },
+      "body": { "size": 37, "weight": 600, "lineHeight": 1.7 },
+      "caption": { "size": 30, "weight": 700, "lineHeight": 1.55 },
+      "label": { "size": 28, "weight": 900, "lineHeight": 1.35 },
+      "price": { "size": 124, "weight": 900, "lineHeight": 1.05 }
+    }
+  },
+  "radius": { "sm": 0, "md": 6, "lg": 14, "pill": 999 },
+  "spacing": { "xs": 10, "sm": 18, "md": 30, "lg": 48, "xl": 80 },
+  "motif": {
+    "panelStyle": "diagonal",
+    "diagonalAngle": 14,
+    "dotStyle": "bar",
+    "pattern": "dots",
+    "patternOpacity": 0.16,
+    "strokeWidth": 6
+  }
+}

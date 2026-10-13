@@ -1,0 +1,43 @@
+{
+  "id": "minimal-light",
+  "name": "مینیمال روشن",
+  "description": "سطوح سفید و خاکستری سرد، سبز جنگلی کم‌رنگ، لبه‌های صاف و فضای تنفس زیاد.",
+  "canvas": { "width": 1080, "heightPortrait": 1350, "heightSquare": 1080, "safe": 92 },
+  "colors": {
+    "bg": "#F2F3F1",
+    "bgAlt": "#E7E9E5",
+    "surface": "#FFFFFF",
+    "ink": "#15171A",
+    "inkMuted": "#6A7078",
+    "accent": "#2D4A3E",
+    "accentInk": "#F2F3F1",
+    "line": "rgba(21,23,26,0.16)",
+    "panel": "#E1E4DE",
+    "panelInk": "#15171A",
+    "onImage": "#FFFFFF",
+    "scrim": "rgba(15,17,20,0.5)"
+  },
+  "type": {
+    "fontFamily": "'Vazirmatn', 'Tahoma', sans-serif",
+    "scale": {
+      "display": { "size": 132, "weight": 800, "lineHeight": 1.14 },
+      "headline": { "size": 92, "weight": 800, "lineHeight": 1.2 },
+      "title": { "size": 60, "weight": 700, "lineHeight": 1.32 },
+      "subtitle": { "size": 40, "weight": 500, "lineHeight": 1.55 },
+      "body": { "size": 34, "weight": 400, "lineHeight": 1.8 },
+      "caption": { "size": 28, "weight": 400, "lineHeight": 1.65 },
+      "label": { "size": 25, "weight": 700, "lineHeight": 1.4 },
+      "price": { "size": 96, "weight": 800, "lineHeight": 1.1 }
+    }
+  },
+  "radius": { "sm": 4, "md": 8, "lg": 16, "pill": 999 },
+  "spacing": { "xs": 12, "sm": 22, "md": 36, "lg": 60, "xl": 92 },
+  "motif": {
+    "panelStyle": "block",
+    "diagonalAngle": 0,
+    "dotStyle": "bar",
+    "pattern": "none",
+    "patternOpacity": 0,
+    "strokeWidth": 2
+  }
+}
